@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "Diffusion"
+  site-url: "https://Jorgvt.github.io/Diffusion"
+  description: "Learning about diffusion."
+  repo-branch: main
+  repo-url: "https://github.com/Jorgvt/Diffusion"
